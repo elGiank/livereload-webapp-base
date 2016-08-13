@@ -24,3 +24,4 @@ Seed project for my web apps. Gulp + BrowserSync + Sass + HTML5
 
 ##ToDo
 - Restart server on compilation fail.
+- Add a "What's inside" section to the readme
