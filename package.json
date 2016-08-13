@@ -1,5 +1,5 @@
 {
-    "name": "Web App Seed",
+    "name": "Web-App-Seed",
     "private": true,
     "version": "1.0.0",
     "description": "Seed project for web apps. Gulp + BrowserSync + Sass + HTML5",
