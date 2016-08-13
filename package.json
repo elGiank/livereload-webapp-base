@@ -1,0 +1,22 @@
+{
+    "name": "Web App Seed",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Seed project for web apps. Gulp + BrowserSync + Sass + HTML5",
+    "main": "gulpfile.js",
+    "scripts": {
+        "start": "npm install"
+    },
+    "author": "Gian Carlo Vegas R.",
+    "license": "MIT",
+    "devDependencies": {
+        "browser-sync": "^2.12.10",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^3.1.0",
+        "gulp-concat": "^2.6.0",
+        "gulp-sass": "^2.3.1",
+        "gulp-task-listing": "^1.0.1",
+        "gulp-uglify": "^1.5.3",
+        "gulp-util": "^3.0.7"
+    }
+}
